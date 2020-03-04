@@ -5,7 +5,14 @@ body {
   margin: 0;
   font-family: 'Montserrat', sans-serif;
 }
+#clock-title {
+  display: inline;
+  float: right;
+  color: white;
+  margin-top: 0;
 
+
+}
 #header {
   background-color: #1abc9c;
   height: 150px;
@@ -42,6 +49,8 @@ body {
   display: inline;
   padding-left: 20px;
 }
+
+
 
 .container {
   max-width: 1000px;
